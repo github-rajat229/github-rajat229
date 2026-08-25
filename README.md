@@ -19,11 +19,11 @@
 
 ---
 
-<!-- LIVE METRICS DASHBOARD CARD -->
+<!-- LIVE METRICS DASHBOARD CARD (Direct API Rendering) -->
 <div align="center">
   <h3>📊 Live GitHub Dashboard</h3>
   <br/>
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://github-metrics.vercel.app/api?user=github-rajat229&template=classic&base=header,activity,community,repositories,metadata&config_timezone=UTC" alt="GitHub Metrics" width="100%" />
 </div>
 
 ---
@@ -39,19 +39,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121013.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figmalogoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
 
 ---
-
-<!-- VISUAL CODING GRAPHIC BANNER -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-rajat229&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
-
-<br/>
 
 <!-- PROFILE VIEWS COUNTER -->
 <div align="center">
