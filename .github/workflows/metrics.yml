@@ -18,16 +18,5 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: UTC
           config_theme: dark
-          
-          # 3D Isometric Contributions Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          
-          # Commits Streaks & Activity Stats
-          plugin_achievements: yes
-          plugin_lines: yes
-          
-          # Mastered Technologies Icons
-          plugin_topics: yes
-          plugin_topics_sort: stars
-          plugin_topics_limit: 15
