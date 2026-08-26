@@ -9,7 +9,7 @@
   <!-- HEADER BANNER -->
   <!-- IMPORTANT: Replace the src below with the DIRECT image URL from ibb.co (see instructions after this code) -->
   <img 
-    src="https://ibb.co/Y7qHvhJR.png" 
+    src="https://i.ibb.co/bg8cpXYW/git.jpg" 
     alt="Profile Banner" 
     width="100%" 
   />
