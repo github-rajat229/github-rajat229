@@ -111,19 +111,25 @@
 <br />
 
 <!-- GITHUB STATS -->
+
 <p align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME below with your actual GitHub username -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=github-rajat229&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=a0a0a0&icon_color=00ff9d" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=github-rajat229&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=a0a0a0&icon_color=00ff9d"
     alt="GitHub Stats"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=github-rajat229&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=a0a0a0&icon_color=00ff9d&layout=compact" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-rajat229&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=a0a0a0"
     alt="Top Languages"
   />
 </p>
 
-<br />
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=github-rajat229&theme=tokyonight&hide_border=true&background=0D1117"
+    alt="GitHub Streak"
+  />
+</p>
+
 
 <!-- STREAK STATS (optional, also neon-ish) -->
 <p align="center">
