@@ -21,7 +21,7 @@
   <!-- CHIBI AVATAR PLACEHOLDER -->
   <!-- Replace this URL with any aesthetic anime-style image you like -->
   <img 
-    src="https://ibb.co/p6rmDMGM" 
+    src="https://i.ibb.co/gbFn1fHf/e2-GOp-cleanup-removebg-preview.png" 
     alt="Chibi Avatar" 
     width="180" 
     style="border-radius: 50%; border: 2px solid #00f0ff; box-shadow: 0 0 12px #00f0ff80;"
@@ -152,7 +152,7 @@
   <!-- CODING ANIMATION / AESTHETIC GIF -->
   <!-- Replace this with any dark-mode coding aesthetic GIF you like -->
   <img 
-    src="https://ibb.co/gZMKLyLP" 
+    src="https://i.ibb.co/SwXC4N4d/cc6d7b54bf18733343d1265a67a7dbe51-ezgif-com-video-to-gif-converter.gif" 
     alt="Coding Aesthetic" 
     width="70%" 
     style="border-radius: 10px; border: 1px solid #00f0ff40;"
