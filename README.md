@@ -1,6 +1,6 @@
 <!-- HEADER BANNER WITH ANIMATION -->
 <div align="center">
-  <img src="https://i.ibb.co/bg8cpXYW/git.jpg" />
+  <img src="https://i.ibb.co/bg8cpXYW/git.jpg" width="400px"/>
 </div>
 
 
