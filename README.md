@@ -1,105 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rajat Sharma - Developer Portfolio</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
-        body {
-            background-color: #0d1117;
-            color: #c9d1d9;
-            line-height: 1.6;
-            padding: 20px;
-        }
-        .container {
-            max-width: 800px;
-            margin: 40px auto;
-            background: #161b22;
-            padding: 40px;
-            border-radius: 12px;
-            box-shadow: 0 8px 24px rgba(0,0,0,0.5);
-            border: 1px solid #30363d;
-        }
-        header {
-            text-align: center;
-            margin-bottom: 30px;
-        }
-        header h1 {
-            color: #58a6ff;
-            font-size: 2.5rem;
-            margin-bottom: 10px;
-        }
-        header p {
-            color: #8b949e;
-            font-size: 1.1rem;
-        }
-        .section {
-            margin-bottom: 25px;
-        }
-        .section h2 {
-            color: #58a6ff;
-            border-bottom: 1px solid #30363d;
-            padding-bottom: 8px;
-            margin-bottom: 15px;
-            font-size: 1.4rem;
-        }
-        .skills-list {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-        .skill-tag {
-            background: #21262d;
-            color: #58a6ff;
-            padding: 8px 14px;
-            border-radius: 6px;
-            font-size: 0.9rem;
-            border: 1px solid #30363d;
-        }
-        footer {
-            text-align: center;
-            margin-top: 40px;
-            color: #8b949e;
-            font-size: 0.85rem;
-        }
-    </style>
-</head>
-<body>
+<!-- HEADER BANNER WITH ANIMATION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=6,11,15,30&height=220&section=header&text=Hi%20there,%20I'm%20Rajat!&fontSize=38&animation=fadeIn&fontColor=ffffff&fontAlignY=38" width="100%" />
+</div>
 
-    <div class="container">
-        <header>
-            <h1>Rajat Sharma</h1>
-            <p>Frontend Explorer & UI/UX Design Enthusiast</p>
-        </header>
+<!-- TYPING ANIMATION SUBHEADING -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Frontend+Explorer;UI%2FUX+Design+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
+</div>
 
-        <div class="section">
-            <h2>About Me</h2>
-            <p>Hello! I am a student and passionate developer focused on building clean interfaces, exploring web technologies, and learning backend development fundamentals.</p>
-        </div>
+<br/>
 
-        <div class="section">
-            <h2>Tech Stack & Tools</h2>
-            <div class="skills-list">
-                <span class="skill-tag">HTML5</span>
-                <span class="skill-tag">CSS3</span>
-                <span class="skill-tag">JavaScript</span>
-                <span class="skill-tag">Git</span>
-                <span class="skill-tag">VS Code</span>
-                <span class="skill-tag">Figma</span>
-                <span class="skill-tag">Canva</span>
-            </div>
-        </div>
+<!-- ABOUT ME SECTION -->
+### 🚀 About Me
 
-        <footer>
-            <p>Built with HTML & Internal CSS • Hosted on GitHub Pages</p>
-        </footer>
-    </div>
+- 💻 **Focus:** Exploring web development, building aesthetic user interfaces, and learning coding fundamentals.
+- 🎨 **Passion:** Combining clean design with functional code to build engaging web experiences.
+- 📫 **How to reach me:** Drop by my profile or connect with me through my repositories!
 
-</body>
-</html>
+---
+
+<!-- LIVE METRICS DASHBOARD CARD -->
+<div align="center">
+  <h3>📊 Live GitHub Dashboard</h3>
+  <br/>
+  <img src="https://github-metrics.vercel.app/api?user=github-rajat229&template=classic&base=header,activity,community,repositories,metadata&config_timezone=UTC" alt="GitHub Metrics" width="100%" />
+</div>
+
+---
+
+<!-- TECH STACK & TOOLS BADGES -->
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121013.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+</div>
+
+---
+
+<!-- PROFILE VIEWS COUNTER -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=github-rajat229&color=blueviolet&style=flat-square" alt="Profile Views Counter" />
+</div>
