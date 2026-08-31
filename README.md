@@ -1,197 +1,105 @@
-<!-- 
-  COPY THIS ENTIRE FILE INTO YOUR PROFILE README:
-  - Create a repo named exactly like your GitHub username (e.g., your-username/your-username)
-  - Add this content as README.md in that repo
-  - Replace YOUR_GITHUB_USERNAME with your actual username where indicated
--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rajat Sharma - Developer Portfolio</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        body {
+            background-color: #0d1117;
+            color: #c9d1d9;
+            line-height: 1.6;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            background: #161b22;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+            border: 1px solid #30363d;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        header h1 {
+            color: #58a6ff;
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        header p {
+            color: #8b949e;
+            font-size: 1.1rem;
+        }
+        .section {
+            margin-bottom: 25px;
+        }
+        .section h2 {
+            color: #58a6ff;
+            border-bottom: 1px solid #30363d;
+            padding-bottom: 8px;
+            margin-bottom: 15px;
+            font-size: 1.4rem;
+        }
+        .skills-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .skill-tag {
+            background: #21262d;
+            color: #58a6ff;
+            padding: 8px 14px;
+            border-radius: 6px;
+            font-size: 0.9rem;
+            border: 1px solid #30363d;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            color: #8b949e;
+            font-size: 0.85rem;
+        }
+    </style>
+</head>
+<body>
 
-<p align="center">
-  <!-- HEADER BANNER -->
-  <!-- IMPORTANT: Replace the src below with the DIRECT image URL from ibb.co (see instructions after this code) -->
-  <img 
-    src="https://i.ibb.co/bg8cpXYW/git.jpg" 
-    alt="Profile Banner" 
-    width="100%" 
-  />
-</p>
+    <div class="container">
+        <header>
+            <h1>Rajat Sharma</h1>
+            <p>Frontend Explorer & UI/UX Design Enthusiast</p>
+        </header>
 
-<br />
+        <div class="section">
+            <h2>About Me</h2>
+            <p>Hello! I am a student and passionate developer focused on building clean interfaces, exploring web technologies, and learning backend development fundamentals.</p>
+        </div>
 
-<p align="center">
-  <!-- CHIBI AVATAR PLACEHOLDER -->
-  <!-- Replace this URL with any aesthetic anime-style image you like -->
-  <img 
-    src="https://i.ibb.co/gbFn1fHf/e2-GOp-cleanup-removebg-preview.png" 
-    alt="Chibi Avatar" 
-    width="180" 
-    style="border-radius: 50%; border: 2px solid #00f0ff; box-shadow: 0 0 12px #00f0ff80;"
-  />
-</p>
+        <div class="section">
+            <h2>Tech Stack & Tools</h2>
+            <div class="skills-list">
+                <span class="skill-tag">HTML5</span>
+                <span class="skill-tag">CSS3</span>
+                <span class="skill-tag">JavaScript</span>
+                <span class="skill-tag">Git</span>
+                <span class="skill-tag">VS Code</span>
+                <span class="skill-tag">Figma</span>
+                <span class="skill-tag">Canva</span>
+            </div>
+        </div>
 
-<br />
+        <footer>
+            <p>Built with HTML & Internal CSS • Hosted on GitHub Pages</p>
+        </footer>
+    </div>
 
-<p align="center">
-  <p style="font-family: 'Brush Script MT', cursive; font-size: 28px; color: #00f0ff; margin: 0;">
-    ✨ Welcome to my GitHub Universe ✨
-  </p>
-  <p style="font-family: 'Courier New', monospace; font-size: 14px; color: #a0a0a0; margin-top: 6px;">
-    Frontend Developer • UI/UX Designer • Aesthetic Code Craftsman
-  </p>
-</p>
-
-<br />
-
-<p align="center">
-  <!-- YEARS ON GITHUB COUNTER (simple static text; you can update manually or use a badge service if you like) -->
-  <img 
-    src="https://img.shields.io/badge/Years_on_GitHub-3%2B-00f0ff?style=for-the-badge&logo=github&logoColor=00f0ff" 
-    alt="Years on GitHub"
-  />
-</p>
-
-<br />
-
----
-
-<br />
-
-<p align="center">
-  <p style="font-family: 'Brush Script MT', cursive; font-size: 24px; color: #ff00ff; margin: 0;">
-    🛠️ Technical Skills
-  </p>
-</p>
-
-<br />
-
-<!-- SKILLS GRID (using tables for a simple “card-like” layout) -->
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <p style="font-family: 'Courier New', monospace; font-size: 14px; color: #00f0ff; margin: 0;">
-          HTML
-        </p>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <p style="font-family: 'Courier New', monospace; font-size: 14px; color: #00f0ff; margin: 0;">
-          CSS
-        </p>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <p style="font-family: 'Courier New', monospace; font-size: 14px; color: #00f0ff; margin: 0;">
-          JavaScript
-        </p>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <p style="font-family: 'Courier New', monospace; font-size: 14px; color: #00f0ff; margin: 0;">
-          Web Design
-        </p>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <p style="font-family: 'Courier New', monospace; font-size: 14px; color: #00f0ff; margin: 0;">
-          Figma
-        </p>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<br />
-
----
-
-<br />
-
-<p align="center">
-  <p style="font-family: 'Brush Script MT', cursive; font-size: 24px; color: #00ff9d; margin: 0;">
-    📊 GitHub Stats (Neon Dark)
-  </p>
-</p>
-
-<br />
-
-<!-- GITHUB STATS -->
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=github-rajat229&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=a0a0a0&icon_color=00ff9d"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-rajat229&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=a0a0a0"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=github-rajat229&theme=tokyonight&hide_border=true&background=0D1117"
-    alt="GitHub Streak"
-  />
-</p>
-
-
-<!-- STREAK STATS (optional, also neon-ish) -->
-<p align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME below with your actual GitHub username -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=github-rajat229&theme=dark&background=0d1117&border=00f0ff80&ring=00f0ff&fire=00ff9d&currStreakLabel=00f0ff&sideLabels=a0a0a0&sideNums=00ff9d&currStreakNum=00ff9d" 
-    alt="GitHub Streak"
-  />
-</p>
-
-<br />
-
----
-
-<br />
-
-<p align="center">
-  <p style="font-family: 'Brush Script MT', cursive; font-size: 24px; color: #00f0ff; margin: 0;">
-    💻 Coding Aesthetic
-  </p>
-</p>
-
-<br />
-
-<p align="center">
-  <!-- CODING ANIMATION / AESTHETIC GIF -->
-  <!-- Replace this with any dark-mode coding aesthetic GIF you like -->
-  <img 
-    src="https://i.ibb.co/SwXC4N4d/cc6d7b54bf18733343d1265a67a7dbe51-ezgif-com-video-to-gif-converter.gif" 
-    alt="Coding Aesthetic" 
-    width="70%" 
-    style="border-radius: 10px; border: 1px solid #00f0ff40;"
-  />
-</p>
-
-<br />
-
----
-
-<br />
-
-<p align="center">
-  <p style="font-family: 'Brush Script MT', cursive; font-size: 22px; color: #ff00ff; margin: 0;">
-    🌌 “Design is the silent ambassador of your brand~”
-  </p>
-  <p style="font-family: 'Courier New', monospace; font-size: 13px; color: #808080; margin-top: 6px;">
-    — Building clean interfaces, one component at a time.
-  </p>
-</p>
-
-<br />
-
-<p align="center">
-  <!-- SOCIAL / CONTACT BADGES (optional) -->
-  <img 
-    src="https://img.shields.io/badge/Portfolio-Coming_Soon-00f0ff?style=for-the-badge&logo=google-chrome&logoColor=00f0ff" 
-    alt="Portfolio"
-  />
-  <img 
-    src="https://img.shields.io/badge/Email-Drop_a_Message-00ff9d?style=for-the-badge&logo=gmail&logoColor=00ff9d" 
-    alt="Email"
-  />
-</p>
-
-<br />
+</body>
+</html>
