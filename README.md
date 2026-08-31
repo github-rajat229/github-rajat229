@@ -1,6 +1,6 @@
 <!-- HEADER BANNER WITH ANIMATION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=6,11,15,30&height=220&section=header&text=Hi%20there,%20I'm%20Rajat!&fontSize=38&animation=fadeIn&fontColor=ffffff&fontAlignY=38" width="100%" />
+  <img src="https://i.ibb.co/bg8cpXYW/git.jpg" />
 </div>
 
 <!-- TYPING ANIMATION SUBHEADING -->
