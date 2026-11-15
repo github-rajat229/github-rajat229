@@ -1,52 +1,47 @@
-<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Your%20Name&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20HTML%20%26%20CSS%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="header"/>
+# Hi, I'm Rajat Sharma 👋
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there!+👋+Welcome+to+my+profile;I+turn+ideas+into+clean+web+pages;Building+beautiful+interfaces+with+HTML+%26+CSS;Always+learning%2C+always+creating+🚀" alt="Typing SVG" />
-</a>
+### Full-Stack Web Developer | Frontend & UI Enthusiast | Building Clean, Modern Web Experiences
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=8957e5" alt="Followers" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=e3b341" alt="Stars" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Web+Developer+from+Jaipur%2C+India;HTML+%7C+CSS+%7C+JavaScript+%7C+Responsive+Design;Turning+ideas+into+clean+and+useful+interfaces" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
-
-Hello! I'm **Your Name**, a passionate web developer who loves crafting clean, responsive and visually appealing websites.
-
-- 🔭 Currently working on **modern, responsive web layouts**
-- 🌱 Currently learning **JavaScript, Git & advanced CSS animations**
-- 🎨 I enjoy **Flexbox, Grid, animations and pixel-perfect design**
-- 🤝 Open to **collaborating on open-source and front-end projects**
-- 💬 Ask me about **HTML, CSS and web design**
-- ⚡ Fun fact: *I believe good design is invisible, you just feel it.*
-
-<br/>
-
----
-
-## 🛠️ Tech & Tools
+## 👀 Profile Views
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&theme=dark" alt="skills" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0D75FF&style=for-the-badge" alt="Profile views" />
 
-<br/><br/>
+</div>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently building responsive, user-friendly websites and web applications.
+- 🌱 I’m strengthening my skills in **HTML, CSS, JavaScript, React, and modern web development**.
+- 💡 I enjoy turning ideas into clean, accessible, and visually appealing interfaces.
+- 🎯 My goal is to create products that are fast, intuitive, and delightful to use.
+- 📍 Based in **Jaipur, Rajasthan, India**.
+- 📫 Reach me through GitHub or the links below.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,bootstrap,figma&theme=dark" alt="Frontend skills" />
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman,mysql,nodejs&theme=dark" alt="Development tools" />
 
 </div>
 
@@ -56,50 +51,115 @@ Hello! I'm **Your Name**, a passionate web developer who loves crafting clean, r
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak stats" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" alt="streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution activity graph" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" alt="contribution graph" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+</picture>
+
+</div>
+
+> The snake animation is generated from your real GitHub contribution history using GitHub Actions. Create the workflow below inside this same profile repository.
+
+<details>
+<summary><b>⚙️ Click to add the Snake Contribution workflow</b></summary>
+
+Create this file:
+
+` .github/workflows/snake.yml `
+
+```yaml
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push generated files to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After adding it, go to **Actions → Generate contribution snake → Run workflow**. The SVG files will be published to the `output` branch and appear in your README. [15]
+
+</details>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://www.linkedin.com/in/your-linkedin-username/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://your-portfolio-link.com">
+  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+### ✨ “Good design is invisible. Great code is reliable.”
 
-<br/><br/>
-
-> *"Design is not just what it looks like, design is how it works."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=100&section=footer" alt="Footer" />
 
 </div>
