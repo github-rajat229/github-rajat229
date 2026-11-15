@@ -64,8 +64,7 @@
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy-six-nu.vercel.app/?username=github-rajat229&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
-
+<img width="95%" src="https://raw.githubusercontent.com/github-rajat229/github-rajat229/main/github-readme-activity-graph.svg" alt="GitHub Activity Graph" />
 </div>
 ---
 
