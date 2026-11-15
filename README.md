@@ -12,6 +12,7 @@
 
 <div align="center">
 ## 👀 Profile Views
+ <br>
 <img src="https://komarev.com/ghpvc/?username=github-rajat229&label=Profile+Views&color=0D75FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
