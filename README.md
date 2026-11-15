@@ -56,7 +56,6 @@
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.onrender.com/graph?username=github-rajat229&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
