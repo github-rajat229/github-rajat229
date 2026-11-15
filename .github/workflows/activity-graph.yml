@@ -1,0 +1,33 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Contribution Graph
+        uses: Ashutosh00710/github-readme-activity-graph@main
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: github-rajat229
+          BG_COLOR: "0D1117"
+          COLOR: "58A6FF"
+          LINE: "1F6FEB"
+          POINT: "FFFFFF"
+          AREA: true
+          HIDE_BORDER: true
+      - name: Commit & Push Graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Update activity graph" || exit 0
+          git push
