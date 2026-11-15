@@ -74,55 +74,6 @@
 
 </div>
 
-> The contribution calendar and snake animation visualize your GitHub contribution history. The snake animation is generated automatically using GitHub Actions.
-
-<details>
-<summary><b>⚙️ Click to add the Snake Contribution workflow</b></summary>
-
-Create this file:
-
-`.github/workflows/snake.yml`
-
-```yaml
-name: Generate contribution snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push generated files
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After adding it, go to:
-
-**Actions → Generate contribution snake → Run workflow**
-
-The SVG files will be published to your `output` branch.
-
-</details>
 
 ---
 
