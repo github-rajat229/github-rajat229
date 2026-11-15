@@ -64,8 +64,7 @@
 
 <div align="center">
 
-<img width="95%" src="https://raw.githubusercontent.com/github-rajat229/github-rajat229/main/github-readme-activity-graph.svg" alt="GitHub Activity Graph" />
-</div>
+<img width="95%" src="https://raw.githubusercontent.com/github-rajat229/github-rajat229/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Activity Graph" /></div>
 ---
 
 ## 🐍 Contribution Graph
