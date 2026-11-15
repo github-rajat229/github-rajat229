@@ -4,7 +4,7 @@
 
 ### Frontend & UI Enthusiast | Building Clean, Modern Web Experiences
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Web+Developer+from+Ajmer%2C+India;HTML+%7C+CSS+%7C+JavaScript+%7C+Responsive+Design;Turning+ideas+into+clean+and+useful+interfaces" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Web+Developer+from+Ajmer%2C+;HTML+%7C+CSS+%7C+JavaScript+%7C+Responsive+Design;Turning+ideas+into+clean+and+useful+interfaces" alt="Typing SVG" />
 
 </div>
 
