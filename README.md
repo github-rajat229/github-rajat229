@@ -48,13 +48,19 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=github-rajat229&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=github-rajat229&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
+alt="GitHub Stats" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=github-rajat229&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak stats" />
+<img height="165"
+src="https://github-readme-streak-stats.herokuapp.com/?user=github-rajat229&theme=tokyonight&hide_border=true&background=0D1117"
+alt="GitHub Streak Stats" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=github-rajat229&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution activity graph" />
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=github-rajat229&theme=tokyo-night&hide_border=true&bg_color=0D1117"
+alt="Contribution Activity Graph" />
 
 </div>
 
@@ -64,7 +70,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=github-rajat229&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
+<img
+src="https://github-profile-trophy.vercel.app/?username=github-rajat229&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
+alt="GitHub Trophies" />
 
 </div>
 
