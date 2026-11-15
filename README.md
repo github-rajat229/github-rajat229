@@ -49,8 +49,9 @@
 <div align="center">
 
 <img height="165"
-src="https://github-readme-stats.vercel.app/api?username=github-rajat229&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
-alt="GitHub Stats" />
+<img height="165"
+src="https://github-stats-extended.vercel.app/api?username=github-rajat229&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
+alt="GitHub Stats" />alt="GitHub Stats" />
 
 <img height="165"
 src="https://github-readme-streak-stats.herokuapp.com/?user=github-rajat229&theme=tokyonight&hide_border=true&background=0D1117"
