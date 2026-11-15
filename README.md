@@ -77,12 +77,6 @@
 
 <div align="center">
 
-### Contribution Calendar
-
-<img width="95%" src="https://ghchart.rshah.org/58A6FF/github-rajat229" alt="GitHub Contribution Calendar" />
-
-<br/>
-
 ### Contribution Snake Animation
 
 <picture>
