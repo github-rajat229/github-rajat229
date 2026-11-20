@@ -13,7 +13,7 @@
 <div align="center">
 ## 👀 Profile Views
  <br>
-<img src="https://komarev.com/ghpvc/?username=github-rajat229&label=Profile+Views&color=0D75FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=rajatsharma31&label=Profile+Views&color=0D75FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -50,9 +50,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=github-rajat229&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=rajatsharma31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=github-rajat229&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsharma31&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
 
 <br/><br/>
 
@@ -67,9 +67,9 @@
 ### Contribution Snake Animation
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/github-rajat229/github-rajat229/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/github-rajat229/github-rajat229/output/github-snake.svg" />
-  <img width="95%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/github-rajat229/github-rajat229/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajatsharma31/rajatsharma31/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajatsharma31/rajatsharma31/output/github-snake.svg" />
+  <img width="95%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rajatsharma31/rajatshara31/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-<a href="https://github.com/github-rajat229">
+<a href="https://github.com/rajatsharma31">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
